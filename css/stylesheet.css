@@ -52,7 +52,9 @@ body {
   color: #4c4d4d;
   font-family: "Poppins", sans-serif;
 }
-
+.amg{
+  background-attachment: fixed;
+}
 /*-------- Preloader --------*/
 .preloader {
   position: fixed;
